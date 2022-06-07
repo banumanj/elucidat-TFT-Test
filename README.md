@@ -28,3 +28,7 @@ Add other BDD tests
 **Test Results :**
 https://github.com/banumanj/elucidat-TFT-Test/tree/main/target/HtmlReports
 ![image](https://user-images.githubusercontent.com/61667828/172280594-81de1343-4509-4a12-9cd5-9b595b675f1c.png)
+
+
+QA Tast with Bugs : 
+https://github.com/banumanj/elucidat-TFT-Test/blob/main/QA%20Task%20.docx
